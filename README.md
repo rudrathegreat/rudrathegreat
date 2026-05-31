@@ -1,18 +1,19 @@
 # Sharing experiences with others
-Hi everyone, my name is Rudra and I love STEM, science, technology, engineering and mathematics. Despite myself being a high school student here in Melbourne, Australia, I've had the opportunity to work with governments, ranging from my local government to the state government on some really cool projects to protect our environment and local ecosystems. I've also had the opportunity to work with universities on research on astronomy, being involved in several discoveries and publications.
+Astrophysics researcher, and technical leader building large-scale data systems at the intersection of machine learning, scientific computing, and astrophysical discovery.
 
-For more information, visit my LinkedIn profile below!
+Co-author of peer-reviewed MNRAS research, contributor to published Fast Radio Burst and neutron star discoveries, founder of TEDxSwinburne University, and recipient of the City of Whittlesea Young Citizen of the Year award. My work has been featured through ABC, SBS, and Science Illustrated Magazine, and presented to senior leaders including Hon. Daniel Andrews, Hon. Lily D’Ambrosio, Bronwyn Halfpenny MP, Kat Theophanous MP, and Craig Reucassel.
 
+My technical work includes:
+• Processing 700+ GB radio telescope datasets using distributed HPC systems (Slurm/PBS)
+• Designing ML-assisted pulsar detection and signal classification pipelines
+• Reducing 350,000 raw astrophysical candidates to <2,000 validated signals (99.4% reduction)
+• Building CNN validation frameworks achieving 100% recall on known pulsars
+• Applying Bayesian inference, Gaussian modelling, and statistical learning to Fast Radio Burst morphology and neutron star emission analysis
+• Developing end-to-end Python systems spanning data pipelines, APIs, visualisation platforms, scientific tooling, and research infrastructure
+
+I am particularly interested in scientific machine learning: using AI and statistical modelling to extract meaningful structure from noisy, high-dimensional observational data. My research spans pulsars, Fast Radio Bursts, neutron stars, Gaia stellar cluster modelling, signal processing, and probabilistic inference.
+
+Alongside research engineering, I lead technical and public-facing initiatives connecting science, technology, and communication. I founded TEDxSwinburne University, led engineering teams across space robotics and STEM initiatives, and built platforms designed to translate complex scientific research into accessible, scalable systems for researchers, students, and public audiences.
+
+For more information, visit my LinkedIn profile below.
 https://www.linkedin.com/in/rudra-sekhri-02162219b/
-
-Check out my YouTube channel below!
-
-https://www.youtube.com/channel/UCAE9Wrp_IcBX_mZKYXruvLw
-
-Follow me on Twitter!
-
-https://www.twitter.com/rudrasekhri
-
-https://www.twitter.com/theastropods
-
-Feel free to connect with me through LinkedIn or Twitter!
