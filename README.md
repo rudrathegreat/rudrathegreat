@@ -13,7 +13,5 @@ My technical work includes:
 
 I am particularly interested in scientific machine learning: using AI and statistical modelling to extract meaningful structure from noisy, high-dimensional observational data. My research spans pulsars, Fast Radio Bursts, neutron stars, Gaia stellar cluster modelling, signal processing, and probabilistic inference.
 
-Alongside research engineering, I lead technical and public-facing initiatives connecting science, technology, and communication. I founded TEDxSwinburne University, led engineering teams across space robotics and STEM initiatives, and built platforms designed to translate complex scientific research into accessible, scalable systems for researchers, students, and public audiences.
-
 For more information, visit my LinkedIn profile below.
 https://www.linkedin.com/in/rudra-sekhri-02162219b/
